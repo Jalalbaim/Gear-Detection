@@ -9,3 +9,4 @@ By employing machine learning techniques, the system will learn to differentiate
 This gear detection project holds significant potential for applications in quality control, preventive maintenance, and machinery optimization. By automatically identifying faulty gears, it can help prevent unexpected breakdowns, reduce downtime, and optimize maintenance schedules. Additionally, the system can contribute to improving overall production efficiency by ensuring the use of reliable gears in industrial processes.
 
 ## Features collection
+![mort_lines](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/2a1b012f-c917-4e51-a126-ba4418ee4296)
