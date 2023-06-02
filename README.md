@@ -9,6 +9,8 @@ By employing machine learning techniques, the system will learn to differentiate
 This gear detection project holds significant potential for applications in quality control, preventive maintenance, and machinery optimization. By automatically identifying faulty gears, it can help prevent unexpected breakdowns, reduce downtime, and optimize maintenance schedules. Additionally, the system can contribute to improving overall production efficiency by ensuring the use of reliable gears in industrial processes.
 
 ## Features collection
-### Line detection 
+### Line detection: 
 ![bras_line](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/072fad3c-6775-47d6-9a2d-38c34a7fa0d1)
 ![mort_lines](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/2a1b012f-c917-4e51-a126-ba4418ee4296)
+## Circle Detection
+![brasak_pixels](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/8b6cd635-c3d0-4bf0-9cfc-f94d7cbedf21)
