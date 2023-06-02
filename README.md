@@ -10,8 +10,9 @@ This gear detection project holds significant potential for applications in qual
 
 ## Features collection
 ### Line detection: 
-
 ![mort_lines](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/2a1b012f-c917-4e51-a126-ba4418ee4296)
-### Circle Detection
+### Circle Detection:
 ![parfait_circles](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/196e3672-1d17-41c2-ba63-733c7a70aed0)
+
+
 
