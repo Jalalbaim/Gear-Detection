@@ -12,5 +12,5 @@ This gear detection project holds significant potential for applications in qual
 ### Line detection: 
 ![bras_line](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/072fad3c-6775-47d6-9a2d-38c34a7fa0d1)
 ![mort_lines](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/2a1b012f-c917-4e51-a126-ba4418ee4296)
-## Circle Detection
-![brasak_pixels](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/8b6cd635-c3d0-4bf0-9cfc-f94d7cbedf21)
+### Circle Detection
+
