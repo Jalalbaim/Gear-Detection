@@ -13,7 +13,7 @@ By employing machine learning techniques, the system will learn to differentiate
 ### Circle Detection:
 ![parfait_circles](https://github.com/Jalalbaim/Gear-Detection/assets/110737334/196e3672-1d17-41c2-ba63-733c7a70aed0)
 
-## ML 
+## Machine Learning Classification
 This is basically a gear classification problem, for which we will use a classification algorithm known as Logistic Regression.
 The features that can be gathered from the tests to create our dataset are as follows: the number of pixels that make up the gear, the number of pixels that make up the background, the ratio of gear pixels to background pixels, the number of lines, and the number of circles.
 Given that we only have 8 images, out of which only 2 represent a functional gear, we can conclude that our dataset is unbalanced, which will affect our accuracy score.
